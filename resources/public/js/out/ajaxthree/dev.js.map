@@ -1,0 +1,1 @@
+{"version":3,"file":"\/E:\/sudheer\/clojure\/ajaxthree\/resources\/public\/js\/out\/ajaxthree\/dev.js","sources":["dev.cljs"],"lineCount":10,"mappings":";AAAA;;;AAGA,AAACA;AAED,0BAAA,1BAAMC;AAAN,AACE,OAACC","names":["cljs.core\/enable-console-print!","ajaxthree.dev\/on-jsload","ajaxthree.core\/main"]}
